@@ -742,7 +742,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"http://lattufe1.hospedagemdesites.ws/\" data-toolbar=\"-mbrBtnMove\">Conheça a Laffufe</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"http://lattufe1.hospedagemdesites.ws/\" data-toolbar=\"-mbrBtnMove\">Conheça a Lattufe</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/obra-1-600x605.jpg",
@@ -759,7 +759,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"http://lattufe1.hospedagemdesites.ws/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Conheça a Laffufe</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"http://lattufe1.hospedagemdesites.ws/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Conheça a Lattufe</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/home-casa-3d-1900x1254.jpg",
@@ -776,7 +776,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"http://lattufe1.hospedagemdesites.ws/\" data-toolbar=\"-mbrBtnMove\">Conheça a Laffufe</a> "
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"http://lattufe1.hospedagemdesites.ws/\" data-toolbar=\"-mbrBtnMove\">Conheça a Lattufe</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/home-uba-1900x1368.jpg",
@@ -793,7 +793,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"http://lattufe1.hospedagemdesites.ws/\" data-toolbar=\"-mbrBtnMove\">Conheça a Laffufe</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"http://lattufe1.hospedagemdesites.ws/\" data-toolbar=\"-mbrBtnMove\">Conheça a Lattufe</a>"
               }
             ]
           }
